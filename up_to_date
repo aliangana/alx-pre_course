@@ -1,0 +1,5 @@
+78  git push -u origin main                                                  
+   79  vim README.md                                                            
+   80  less history                                                             
+   81  history                                                                  
+   82  git pull
